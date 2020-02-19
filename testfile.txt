@@ -4,4 +4,4 @@ General terms: *(a) Offers/discounts valid on payments by digibank Debit Card (b
 Dear Customer, DBS Bank India Limited or our partners will never ask for your Debit Card number, Expiry date, Card Verification Value (CVV), One Time Password (OTP), PIN number. Do not share such information with fraudsters who claim to be from DBS Bank, RBI, Income Tax department or other regulatory bodies etc. Also do not click on links or attachments from unknown sources.
 Confidential Note: This mail is intended for the individuals named above.
 
-and added new lines.
+new lines
